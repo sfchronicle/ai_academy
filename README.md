@@ -1,6 +1,6 @@
 # AI & Automation Academy
 
-TK TK TK
+Welcome to the AI & Automation Academy! This is a six-week course that will introduce you to the world of generative AI, how we're approaching it at Hearst Newspapers and how you can use it in your work.
 
 ## Table of contents
 
