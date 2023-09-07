@@ -47,6 +47,7 @@ In this introductory module, we'll take a 30,000-foot view of the generative AI 
 
 - **[Beginner’s prompt handbook: ChatGPT for local news publishers | Joe Amditis x
   ￼Center for Cooperative Media](https://jamditis.notion.site/jamditis/Beginner-s-prompt-handbook-ChatGPT-for-local-news-publishers-15d1f07d5b194265a41fdd42955679b4#e0d43385fb95496aab9d09670b80ee48)**
+- **[AI-enhanced development makes me more ambitious with my projects | Simon Willison](https://simonwillison.net/2023/Mar/27/ai-enhanced-development/):**
 
 ### Extras
 
@@ -55,6 +56,7 @@ In this introductory module, we'll take a 30,000-foot view of the generative AI 
 - **[Our Use of AI | Hearst Newspaper](https://www.expressnews.com/ai_use/):** Read through Hearst Newspaper's guidelines on how we intend on using generative AI across our work.
 - **[Standards around generative AI | The Associated Press](https://blog.ap.org/standards-around-generative-ai)**: I think it's worthwhile to see how other news organizations are approaching generative AI in the newsroom. I broadly agree with everything laid out here.
 - **[One Useful Thing | Ethan Mollick](https://www.oneusefulthing.org/):** A lovely newsletter by Ethan Mollick, a professor at the University of Pennsylvania’s Wharton School. His thinking has had an impact on my thinking.
+- **[GPT-4 System Card](https://cdn.openai.com/papers/gpt-4-system-card.pdf)**
 
 ## Module 2: OpenAI and prompt engineering [⤴️](#table-of-contents)
 
