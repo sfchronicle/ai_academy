@@ -14,6 +14,11 @@ Welcome to the AI & Automation Academy! This is a six-week course that will intr
     - [Extras](#extras)
     - [Why, Ryan?](#why-ryan)
   - [Module 2: OpenAI and prompt engineering ⤴️](#module-2-openai-and-prompt-engineering-️)
+    - [Goals](#goals-1)
+    - [Topics](#topics-1)
+    - [Homework](#homework-1)
+    - [Readings/Clips](#readingsclips)
+    - [Extras](#extras-1)
   - [Module 3: Vector databases ⤴️](#module-3-vector-databases-️)
   - [Module 4: LangChain ⤴️](#module-4-langchain-️)
   - [Module 5: Slack bots ⤴️](#module-5-slack-bots-️)
@@ -83,7 +88,46 @@ Each module I'm going try to share with you a quirky, weird, off-the-wall link t
 
 ## Module 2: OpenAI and prompt engineering [⤴️](#table-of-contents)
 
-Coming soon!
+### Goals
+
+Today, we're diving deeper into what OpenAI has to offer, specifically the features and functionalities of the OpenAI playground. My aim is to demystify the technical jargon, guide you through best practices, and set you up to smoothly transition into the programming aspects of this technology. By the end, you'll have a strong foundation for building simple LLM-powered applications.
+
+### Topics
+
+- Why use [OpenAI's playground](https://beta.openai.com/playground) over [chatGPT](chat.openai.com/)?
+- How to navigate the playground interface.
+- How does OpenAI [charge for their API](https://openai.com/pricing)?
+- Vocab lesson: [Tokens](https://platform.openai.com/tokenizer), context window, temperature, stop sequences, Top P, frequency penalty, presence penalty.
+- What are the different models? And how can they [change over time](https://platform.openai.com/docs/models/continuous-model-upgrades)?
+- What are [fine-tuned models](https://platform.openai.com/docs/guides/fine-tuning)?
+- What are [legacy models](https://platform.openai.com/docs/models/gpt-3)? (Quickly touch on the token probabilities feature)
+- Breakdown of what [roles](https://platform.openai.com/docs/guides/gpt/chat-completions-api) are.
+- High-level overview of prompting best practices. Everything based on ["GPT best practices" from OpenAI](https://platform.openai.com/docs/guides/gpt-best-practices).
+- [Submitting a prompt and receiving a response](https://github.com/openai/openai-cookbook/blob/main/examples/How_to_format_inputs_to_ChatGPT_models.ipynb).
+- How to work with [OpenAI's moderations endpoint](https://platform.openai.com/docs/guides/moderation/overview).
+- Introduction to [OpenAI's Cookbook](https://github.com/openai/openai-cookbook).
+- Capstone project discussion.
+- If we have time: chatGPT Advanced Data Analysis plugin
+
+### Homework
+
+- Using [OpenAI's Playground interface](https://beta.openai.com/playground), create one prompt that serves a practical purpose for something in your role. Share it in the academy Slack channel. To do this from the playground, click "Share" in the upper right hand corner. Name your prompt. Copy the link and paste it into the channel. When you share your link, please share what [best practice\(s\) you used](https://platform.openai.com/docs/guides/gpt-best-practices).
+- [Lurk OpenAI's Cookbook repo](https://github.com/openai/openai-cookbook). There are lots of examples and resources in that repo — many of which I'm going to highlight in this course.
+- Try to use Github Copilot in your own projects!
+
+### Readings/Clips
+
+- **[GPT best practices | OpenAI](https://platform.openai.com/docs/guides/gpt-best-practices)**: I don't know if I'm going to go over every little thing covered in this document. You should read through it from top to bottom if you want to become better at prompting.
+- [**Prompt Engineering vs. Blind Prompting | Mitchell Hashimoto**](https://mitchellh.com/writing/prompt-engineering-vs-blind-prompting): Some extra reading on prompt engineering.
+- [**Pragmatic techniques to get the most out of GitHub Copilot | Microsoft:**](https://www.youtube.com/watch?v=CwAzIpc4AnA) I don't know if we're going to have enough time to go over Copilot in this module, but I still want y'all to learn Copilot best practices. Allison Weins and Burke Holland go over how to use Copilot effectively — probably better than I would.
+- **[Building an app in 18 minutes with Github Copilot Chat:](https://www.youtube.com/live/w0iwIzpypGc?si=nfUUjBQtSdHggauQ&t=5581)** Again, not sure if I'm going to be able to do Copilot justice today. But I want y'all to see as many example of the power of copilot. In this clip, Github's CEO builds a complete snake game relying only on Github Copilot and Copilot Chat. Think of the chat functionality as if VS Code had a built-version of chatGPT. [You still have to go on a waitlist](https://github.com/github-copilot/chat_waitlist_signup/join) if you want access to it, but I'm sure you'll want to get on it as soon as you can after watching this clip.
+- **[35 Ways Real People Are Using A.I. Right Now |  Francesca Paris and Larry Buchanan, NYT](https://www.nytimes.com/interactive/2023/04/14/upshot/up-ai-uses.html):** See how a bunch of folks with a wide-variety of backgrounds are using generative AI in their daily lives. Just some light inspiration.
+- [Optional] Interested in learning how AI learns? [Watch this animated video from CGP Grey](https://www.youtube.com/watch?v=R9OHn5ZF4Uo).
+
+### Extras
+
+- Check out [this conversation](https://chat.openai.com/share/985e040e-9125-445a-ade0-a402ccc81022) I had with chatGPT a few weeks ago. It demonstrates how I go about interacting with chatGPT, including how I format my messages, how I provide chatGPT with reference material and how I collaborate with chatGPT to ultimately come to a solution.
+
 
 ## Module 3: Vector databases [⤴️](#table-of-contents)
 
