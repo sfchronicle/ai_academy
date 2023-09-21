@@ -19,8 +19,9 @@ Welcome to the AI & Automation Academy! This is a six-week course that will intr
     - [Homework](#homework-1)
     - [Readings/Clips](#readingsclips)
     - [Extras](#extras-1)
-  - [Module 3: Vector databases ⤴️](#module-3-vector-databases-️)
-  - [Module 4: LangChain ⤴️](#module-4-langchain-️)
+  - [Module 3: Prompting \& Github Copilot ⤴️](#module-3-prompting--github-copilot-️)
+    - [Homework](#homework-2)
+  - [Module 4: Vector databases \& LangChain ⤴️](#module-4-vector-databases--langchain-️)
   - [Module 5: Slack bots ⤴️](#module-5-slack-bots-️)
   - [Module 6: Conclusion ⤴️](#module-6-conclusion-️)
 
@@ -111,9 +112,7 @@ Today, we're diving deeper into what OpenAI has to offer, specifically the featu
 
 ### Homework
 
-- Using [OpenAI's Playground interface](https://beta.openai.com/playground), create one prompt that serves a practical purpose for something in your role. Share it in the academy Slack channel. To do this from the playground, click "Share" in the upper right hand corner. Name your prompt. Copy the link and paste it into the channel. When you share your link, please share what [best practice\(s\) you used](https://platform.openai.com/docs/guides/gpt-best-practices).
-- [Lurk OpenAI's Cookbook repo](https://github.com/openai/openai-cookbook). There are lots of examples and resources in that repo — many of which I'm going to highlight in this course.
-- Try to use Github Copilot in your own projects!
+- I would like for each of you to post a specific example of when you struggled with a prompt in the past by EOD Monday in the AI and Automation Academy Slack channel. If you don’t have a specific example, then post a specific prompting concept you’re unclear about.
 
 ### Readings/Clips
 
@@ -129,11 +128,15 @@ Today, we're diving deeper into what OpenAI has to offer, specifically the featu
 - Check out [this conversation](https://chat.openai.com/share/985e040e-9125-445a-ade0-a402ccc81022) I had with chatGPT a few weeks ago. It demonstrates how I go about interacting with chatGPT, including how I format my messages, how I provide chatGPT with reference material and how I collaborate with chatGPT to ultimately come to a solution.
 
 
-## Module 3: Vector databases [⤴️](#table-of-contents)
+## Module 3: Prompting & Github Copilot [⤴️](#table-of-contents)
 
-Coming soon!
+### Homework
 
-## Module 4: LangChain [⤴️](#table-of-contents)
+- Using [OpenAI's Playground interface](https://beta.openai.com/playground), create one prompt that serves a practical purpose for something in your role. Share it in the academy Slack channel. To do this from the playground, click "Share" in the upper right hand corner. Name your prompt. Copy the link and paste it into the channel. When you share your link, please share what [best practice\(s\) you used](https://platform.openai.com/docs/guides/gpt-best-practices).
+- [Lurk OpenAI's Cookbook repo](https://github.com/openai/openai-cookbook). There are lots of examples and resources in that repo — many of which I'm going to highlight in this course.
+- Try to use Github Copilot in your own projects!
+
+## Module 4: Vector databases & LangChain [⤴️](#table-of-contents)
 
 Coming soon!
 
