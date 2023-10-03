@@ -21,9 +21,10 @@ Welcome to the AI & Automation Academy! This is a six-week course that will intr
     - [Extras](#extras-1)
   - [Module 3: Prompting \& Github Copilot ⤴️](#module-3-prompting--github-copilot-️)
     - [Homework](#homework-2)
-  - [Module 4: Vector databases \& LangChain ⤴️](#module-4-vector-databases--langchain-️)
-  - [Module 5: Slack bots ⤴️](#module-5-slack-bots-️)
-  - [Module 6: Conclusion ⤴️](#module-6-conclusion-️)
+  - [Module 4: Embeddings ⤴️](#module-4-embeddings-️)
+    - [Homework](#homework-3)
+  - [Module 5: LangChain ⤴️](#module-5-langchain-️)
+  - [Module 6: Slack bots ⤴️](#module-6-slack-bots-️)
 
 ## Module 1: Introduction [⤴️](#table-of-contents)
 
@@ -130,20 +131,30 @@ Today, we're diving deeper into what OpenAI has to offer, specifically the featu
 
 ## Module 3: Prompting & Github Copilot [⤴️](#table-of-contents)
 
+**[Link to Github Copilot slideshow](https://docs.google.com/presentation/d/1IcFToclxVKq7D95doU1570c-tolDAxpr81HhiMUJtko/edit?usp=sharing)**
+
+**[Link to prompting slideshow](https://docs.google.com/presentation/d/13u0nSHUS_YYzVV6uwkm3croB-5yc6FSQkcZ_cAEPSWA/edit?usp=sharing)**
+
 ### Homework
 
 - Using [OpenAI's Playground interface](https://beta.openai.com/playground), create one prompt that serves a practical purpose for something in your role. Share it in the academy Slack channel. To do this from the playground, click "Share" in the upper right hand corner. Name your prompt. Copy the link and paste it into the channel. When you share your link, please share what [best practice\(s\) you used](https://platform.openai.com/docs/guides/gpt-best-practices).
 - [Lurk OpenAI's Cookbook repo](https://github.com/openai/openai-cookbook). There are lots of examples and resources in that repo — many of which I'm going to highlight in this course.
 - Try to use Github Copilot in your own projects!
 
-## Module 4: Vector databases & LangChain [⤴️](#table-of-contents)
+## Module 4: Embeddings [⤴️](#table-of-contents)
+
+A high-level overview of what embeddings are, how they can be used on their own, how they complement LLMs and more.
+
+**[Link to slideshow](https://docs.google.com/presentation/d/1YVIdfrZwGLlzSeMIlSKl7udZio7xNWT_JR5r4kgvq2c/edit?usp=sharing)**
+
+### Homework
+
+Brainstorm a project that uses embeddings. It can be a project that uses embeddings on their own or in conjunction with LLMs. Share your idea in the academy Slack channel.
+
+## Module 5: LangChain [⤴️](#table-of-contents)
 
 Coming soon!
 
-## Module 5: Slack bots [⤴️](#table-of-contents)
-
-Coming soon!
-
-## Module 6: Conclusion [⤴️](#table-of-contents)
+## Module 6: Slack bots [⤴️](#table-of-contents)
 
 Coming soon!
